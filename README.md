@@ -1,3 +1,3 @@
-# PML Project
+# cubature
 
-Practical Machine Learning project "3d reconstruction from aerial imagery with generative adversarial networks".
+Practical machine learning project [3D Reconstruction from Aerial Imagery](report.pdf) using generative adversarial networks.
